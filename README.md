@@ -3,6 +3,10 @@
 21724607 조아인 오픈소스 소프트웨어 과제물
 ====================================
 
-- https://github.com/Edubits/AppInventor 와 https://github.com/zurcoileh/quiz 을 통해 앱인벤터 학습.
+- https://github.com/Edubits/AppInventor (메인으로 사용한 오픈소스)
 
-- 상업적 이용 불가능
+- 쉽게 따라하는 앱 인벤터 2 배우기를 통해 학습, https://github.com/zurcoileh/quiz 을 통해 앱인벤터 실습 응용하였습니다.
+
+- 이미지 변경 형식의 스크립트 변경, MBTI와 이상형 테스트는 외부 웹 (GoToUrl) 불러오기 기능을 활용하여 작성되었습니다.
+
+- 앱 내 버튼과 심리 테스트를 포함한 모든 이미지는 상업적 이용이 불가능합니다.
